@@ -1,2 +1,2 @@
 # PONG
-A version of the classic game PONG that contains power ups
+A version of the classic game PONG that contains power ups. Written in Javascript
